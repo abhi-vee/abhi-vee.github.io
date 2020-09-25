@@ -74,17 +74,18 @@ p
     body
     {
       padding: 1rem;
-      margin-right: -1.5rem;
+      margin-right: -2.5rem;
 
     }
     h1
     {
       font-size: 4rem;
-      margin-left: -1rem;
+      margin-left: -2.5rem;
     }
   .about-box
   {
     display: contents;
+
   }
   .home-section
   {
@@ -92,5 +93,31 @@ p
     padding-top: 1rem;
     padding-bottom: 1rem;
   }
+
+}
+@media only screen and (max-width: 900px) and (max-height: 1400px)
+{
+  body
+  {
+    padding: 1rem;
+    margin-right: -4rem;
+
+  }
+  h1
+  {
+    font-size: 4rem;
+    margin-left: -1rem;
+  }
+.about-box
+{
+  display: contents;
+}
+.home-section
+{
+  width: 90%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
 
 }
