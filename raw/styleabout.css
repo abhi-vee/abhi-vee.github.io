@@ -88,11 +88,12 @@ p
   }
   .about-text
   {
-    width: 310px;
+    //width: 310px;
+    width: 100%;
   }
   .home-section
   {
-    width: 99%;
+    width: 100%;
     padding-top: 1rem;
     padding-bottom: 1rem;
   }
