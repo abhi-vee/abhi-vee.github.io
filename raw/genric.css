@@ -105,7 +105,7 @@ h1
   }
 }
 
-/*
+
 @media only screen and (max-width: 370px)
 {
   body
@@ -157,8 +157,8 @@ h1
 
   }
   }
-*/
-@media only screen and (min-width: 600px)
+
+/*@media only screen and (min-width: 600px)
 {
 body
 {
