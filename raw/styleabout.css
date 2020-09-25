@@ -73,23 +73,26 @@ p
 
     body
     {
-      padding: 1rem;
-      margin-right: -4rem;
+    padding: 1rem;
 
     }
     h1
     {
       font-size: 4rem;
-      margin-left: -2.5rem;
+      margin-left: -1rem;
     }
   .about-box
   {
     display: contents;
 
   }
+  .about-text
+  {
+    width: 310px;
+  }
   .home-section
   {
-    width: 90%;
+    width: 99%;
     padding-top: 1rem;
     padding-bottom: 1rem;
   }
@@ -100,7 +103,7 @@ p
   body
   {
     padding: 1rem;
-    margin-right: -4rem;
+    margin-left: 0.5rem;
 
   }
   h1
@@ -112,9 +115,13 @@ p
 {
   display: contents;
 }
+.about-text
+{
+  width: 100%;
+}
 .home-section
 {
-  width: 90%;
+  width: 100%;
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
