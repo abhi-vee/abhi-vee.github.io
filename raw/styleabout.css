@@ -74,7 +74,7 @@ p
     body
     {
       padding: 1rem;
-      margin-right: -2.5rem;
+      margin-right: -1.5rem;
 
     }
     h1
@@ -92,11 +92,5 @@ p
     padding-top: 1rem;
     padding-bottom: 1rem;
   }
-
-}
-@media only screen and (max-width: 1000px) and (max-height: 1500px)
-
-{
-
 
 }
